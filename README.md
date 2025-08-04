@@ -2,6 +2,17 @@
 
 A simple banking app built with React and Redux. This project demonstrates how to manage global state using Redux, including customer information and account operations. Users can create a customer profile, deposit and withdraw money, request loans, and view their account balance.
 
+<img width="1911" height="896" alt="image" src="https://github.com/user-attachments/assets/ba2cc48f-1c35-4af6-a9dd-a27ca8b0ead0" />
+
+<img width="1913" height="890" alt="image" src="https://github.com/user-attachments/assets/00c71882-218c-468e-a848-8e4c6e6be367" />
+
+<img width="1916" height="893" alt="image" src="https://github.com/user-attachments/assets/a8274526-edd0-4ddb-9cba-f3b697583785" />
+
+
+<img width="1916" height="891" alt="image" src="https://github.com/user-attachments/assets/e5180cf9-1c2c-4634-917a-e5d48838e3db" />
+
+
+
 ---
 
 ## Features
